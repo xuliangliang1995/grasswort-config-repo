@@ -25,5 +25,5 @@ management:
 user:
   id: 1
   name: xuliang
-  age: 24
+  age: 25
   sex: 男
