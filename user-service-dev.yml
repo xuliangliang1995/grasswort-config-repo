@@ -9,5 +9,5 @@ eureka:
 user:
   id: 1
   name: xuliang
-  age: 18
+  age: 25
   sex: 男
