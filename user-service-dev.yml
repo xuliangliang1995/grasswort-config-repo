@@ -5,3 +5,9 @@ eureka:
   client:
     service-url:
       defaultZone: http://localhost:10000/eureka/
+
+user:
+  id: 1
+  name: xuliang
+  age: 18
+  sex: 男
